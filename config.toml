@@ -1,9 +1,0 @@
-[theme]
-base = "dark"
-primaryColor = "#00b4db"
-
-[server]
-maxUploadSize = 10
-
-[browser]
-gatherUsageStats = false
